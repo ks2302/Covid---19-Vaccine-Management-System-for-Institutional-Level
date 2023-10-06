@@ -1,0 +1,125 @@
+.nv {
+  margin-left: -1rem;
+  margin-top: -2rem;
+  width: 96.5rem;
+  height: 5rem;
+  background-color: #003049;
+}
+
+.vms {
+  font-size: 2rem;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  margin-left: 25rem;
+  margin-top: 2rem;
+  padding: 1.2rem;
+}
+nav#nav2 {
+  background-color: #118ab2;
+  width: 96.5rem;
+  margin-left: -1rem;
+  margin-top: 0rem;
+}
+
+nav#nav2 ul {
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+nav#nav2 ul li {
+  list-style: none;
+}
+
+nav#nav2 ul li a {
+  /* height: 3rem; */
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 15px;
+  background-color: #1186ae;
+  display: block;
+  border-right: 1px solid #ffffff;
+  -webkit-transition: background-color 0.7s ease;
+  transition: background-color 0.7s ease;
+  color: white;
+}
+
+nav#nav2 ul li a:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.wlcm {
+  font-size: 4rem;
+  margin-left: 32rem;
+  margin-top: -3rem;
+  color: #003049;
+}
+
+.box {
+  padding: 1rem 2rem 2rem 2rem;
+  margin-left: 10rem;
+  width: 17rem;
+  height: 13rem;
+  border: 2px solid black;
+  border-radius: 45px;
+  background-color: #003049;
+  margin-top: 7.5rem;
+}
+
+.ur {
+  color: whitesmoke;
+  font-size: 35px;
+  margin-left: 1.7rem;
+  height: 15rem;
+  margin-top: 1rem;
+}
+
+.box2 {
+  padding: 1rem 2rem 2rem 2rem;
+  margin-left: 10rem;
+  width: 17rem;
+  height: 13rem;
+  border: 2px solid black;
+  border-radius: 45px;
+  background-color: #003049;
+  margin-top: -16rem;
+  margin-left: 38rem;
+}
+
+.sb {
+  color: whitesmoke;
+  font-size: 35px;
+  margin-left: 3rem;
+  height: 15rem;
+  margin-top: 1rem;
+}
+
+.box3 {
+  padding: 1rem 2rem 2rem 2rem;
+  margin-left: 10rem;
+  width: 17rem;
+  height: 13rem;
+  border: 2px solid black;
+  border-radius: 45px;
+  background-color: #003049;
+  margin-top: -16rem;
+  margin-left: 68rem;
+}
+
+.fd {
+  color: whitesmoke;
+  font-size: 35px;
+  margin-left: 4.6rem;
+  height: 15rem;
+  margin-top: 1rem;
+}
+
+.count {
+  margin-left: -2rem;
+}

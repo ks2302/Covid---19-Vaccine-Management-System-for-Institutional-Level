@@ -1,0 +1,202 @@
+.form {
+  margin-left: 5rem;
+  margin-right: 100rem;
+  margin-top: 70px;
+  padding: 1.5rem 2rem 2rem 3.5rem;
+  border: 3px solid black;
+  size: 10rem;
+  border-radius: 10px;
+  /* box-shadow: 25px 25px 25px rgb(12, 107, 99); */
+  box-shadow: 25px 25px 25px #216481d4;
+  font-size: 20px;
+  width: 37rem;
+  height: 37rem;
+}
+
+.create {
+  margin-left: 130px;
+  margin-top: -44px;
+  border-radius: 6.1px 6.1px 0px 0px;
+  border-bottom: 3px solid black;
+  margin-left: -56px;
+  margin-right: -32px;
+  background-color: rgb(21, 21, 67);
+  color: white;
+  padding: 0.1rem;
+}
+.create h2 {
+  margin-top: 10px;
+  margin-left: 12rem;
+}
+.form_div {
+  margin-top: 20px;
+}
+.acc {
+  margin-top: 10px;
+}
+
+.fullname {
+  margin-top: -1rem;
+}
+
+.f {
+  margin-top: 0.5rem;
+}
+
+.fname {
+  margin-top: -23px;
+  display: block;
+  height: 3.5vh;
+  font-size: medium;
+  border-radius: 5px;
+  padding-left: 0.2rem;
+}
+.mobile {
+  margin-left: 370px;
+  margin-top: -5.5rem;
+}
+
+.mno {
+  margin-top: -23px;
+  display: block;
+  height: 3.5vh;
+  font-size: medium;
+  border-radius: 5px;
+  padding-left: 0.2rem;
+}
+
+.mob {
+  margin-top: 11px;
+}
+
+.date {
+  margin-top: 20px;
+}
+
+.dob {
+  margin-top: -23px;
+  display: block;
+  height: 4vh;
+  font-size: medium;
+  border-radius: 5px;
+  padding-left: 0.2rem;
+}
+.d {
+  margin-top: 11px;
+}
+
+.address {
+  margin-left: 370px;
+  margin-top: -88px;
+}
+
+.add {
+  margin-top: -23px;
+  display: block;
+  height: 3.5vh;
+  font-size: medium;
+  border-radius: 5px;
+  padding-left: 0.2rem;
+}
+
+.ad {
+  margin-top: 11px;
+}
+
+.Email {
+  margin-top: -6rem;
+}
+
+.email {
+  margin-top: -23px;
+  display: block;
+  height: 3.5vh;
+  font-size: medium;
+  border-radius: 5px;
+  padding-left: 0.2rem;
+  margin-left: 23rem;
+}
+
+.em {
+  margin-top: -4rem;
+  margin-left: 23rem;
+}
+
+.password {
+  margin-left: 0px;
+  margin-top: 3rem;
+}
+
+.pword {
+  margin-top: -23px;
+  display: block;
+  height: 3.5vh;
+  font-size: medium;
+  border-radius: 5px;
+  padding-left: 0.2rem;
+}
+
+.p {
+  margin-top: 11px;
+}
+
+.cpassword {
+  margin-left: 23rem;
+  margin-top: -5.5rem;
+}
+
+.cword {
+  margin-top: -23px;
+  display: block;
+  height: 3.5vh;
+  font-size: medium;
+  border-radius: 5px;
+  padding-left: 0.2rem;
+}
+
+.cp {
+  margin-top: 11px;
+}
+
+.gender {
+  margin-top: 0rem;
+  font-size: 1.5rem;
+}
+
+.r {
+  font-size: 1.5rem;
+}
+.g {
+  margin-top: 30px;
+}
+
+.button {
+  padding: 0rem;
+  margin-top: 3rem;
+  margin-left: 220px;
+}
+
+.rg {
+  align-items: center;
+  transition-duration: 0.2s;
+  cursor: pointer;
+  border-radius: 8px;
+  height: 5vh;
+  width: 80px;
+  background-color: rgb(12, 12, 75);
+  color: white;
+  font-size: medium;
+}
+
+.rg:hover {
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  text-decoration: none;
+}
+
+.sin {
+  margin-top: -2rem;
+  margin-left: 3rem;
+  font-size: larger;
+}

@@ -1,0 +1,157 @@
+.nv {
+  margin-left: -1rem;
+  margin-top: -2rem;
+  width: 96.5rem;
+  height: 5rem;
+  background-color: #003049;
+}
+
+.vms {
+  font-size: 2rem;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  margin-left: 25rem;
+  margin-top: 2rem;
+  padding: 1.2rem;
+}
+nav#nav2 {
+  background-color: #118ab2;
+  width: 96.5rem;
+  margin-left: -1rem;
+  margin-top: 0rem;
+  /* position: fixed; */
+}
+
+nav#nav2 ul {
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+nav#nav2 ul li {
+  list-style: none;
+}
+
+nav#nav2 ul li a {
+  /* height: 3rem; */
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 15px;
+  background-color: #1186ae;
+  display: block;
+  border-right: 1px solid #ffffff;
+  -webkit-transition: background-color 0.7s ease;
+  transition: background-color 0.7s ease;
+  color: white;
+}
+
+nav#nav2 ul li a:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.fb {
+  margin-left: 41rem;
+  margin-top: -1rem;
+  font-size: 2rem;
+}
+
+/* feedback form */
+
+.container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container form {
+  width: 670px;
+  height: 430px;
+  display: flex;
+  justify-content: center;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  flex-wrap: wrap;
+  background-color: #003049;
+  margin-top: -3rem;
+}
+
+.container form input {
+  width: 290px;
+  height: 40px;
+  padding-left: 10px;
+  outline: none;
+  border: none;
+  font-size: 1.5rem;
+  background: none;
+  border-bottom: 2px solid #fff;
+  margin-top: 1rem;
+  border-radius: 5px;
+}
+
+.ip1 {
+  margin-left: -1rem;
+}
+.container form input::placeholder {
+  color: #ddd;
+}
+.type {
+  margin-top: 5rem;
+}
+.container form h4 {
+  color: #fff;
+  font-weight: 300;
+  width: 600px;
+  margin-top: 20px;
+  font-size: 1.3rem;
+}
+
+.container form textarea {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #fff;
+  color: #fff;
+  font-weight: 200;
+  font-size: 15px;
+  padding: 10px;
+  outline: none;
+  min-width: 600px;
+  max-width: 600px;
+  min-height: 80px;
+  max-height: 80px;
+  font-size: 1rem;
+}
+
+textarea::-webkit-scrollbar {
+  width: 1em;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background-color: rgba(194, 194, 194, 0.713);
+}
+
+.container form #button {
+  border: none;
+  background: #fff;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #333;
+  width: 100px;
+  padding: 0;
+  margin-right: 500px;
+  margin-bottom: 30px;
+  transition: 0.3s;
+}
+
+.container form #button:hover {
+  opacity: 0.7;
+}

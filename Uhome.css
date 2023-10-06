@@ -1,0 +1,59 @@
+.nv {
+  margin-left: -1rem;
+  margin-top: -2rem;
+  width: 96.5rem;
+  height: 5rem;
+  background-color: #003049;
+}
+
+.vms {
+  font-size: 2rem;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  margin-left: 25rem;
+  margin-top: 2rem;
+  padding: 1.2rem;
+}
+nav#nav2 {
+  background-color: #118ab2;
+  width: 96.5rem;
+  margin-left: -1rem;
+  margin-top: 0rem;
+}
+
+nav#nav2 ul {
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+nav#nav2 ul li {
+  list-style: none;
+}
+
+nav#nav2 ul li a {
+  /* height: 3rem; */
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 15px;
+  background-color: #1186ae;
+  display: block;
+  border-right: 1px solid #ffffff;
+  -webkit-transition: background-color 0.7s ease;
+  transition: background-color 0.7s ease;
+  color: white;
+}
+
+nav#nav2 ul li a:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* .wlcm {
+  margin-left: 30rem;
+  margin-top: -4rem; */

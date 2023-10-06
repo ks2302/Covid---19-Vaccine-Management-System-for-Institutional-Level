@@ -1,0 +1,114 @@
+.body {
+  background-size: 100%;
+}
+
+.form {
+  display: flex;
+  height: 50vh;
+  align-items: center;
+  justify-content: center;
+}
+.head {
+  margin-top: -34rem;
+  margin-left: -50rem;
+  font-size: 2rem;
+}
+.v {
+  margin-top: -36rem;
+  margin-left: -20rem;
+  font-size: 2rem;
+}
+
+.admin {
+  margin-top: -28rem;
+  padding-left: 10px;
+  font-size: 1.2rem;
+}
+
+.add {
+  margin-left: -61rem;
+  margin-top: -30px;
+  color: rgb(12, 12, 75);
+}
+.logo {
+  font-size: 1.8rem;
+  color: rgb(12, 12, 75);
+  margin-left: -63rem;
+}
+.Box {
+  margin-top: 7rem;
+  margin-left: -60rem;
+  height: 20rem;
+  width: 18rem;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 3rem 3rem 3rem;
+  font-size: 1.7rem;
+  border-radius: 25px;
+  align-items: center;
+  border-style: outset;
+  box-shadow: 25px 25px 25px #216481d4;
+  background: linear-gradient(to top left, #50dfffd4, #b3e0e5);
+}
+
+.submit {
+  align-items: center;
+  transition-duration: 0.2s;
+  cursor: pointer;
+  border-radius: 8px;
+  height: 4vh;
+  width: 60px;
+  background-color: rgb(12, 12, 75);
+  color: white;
+  font-size: 12px;
+}
+
+.submit:hover {
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  text-decoration: none;
+}
+
+/* .copy {
+  font-size: 1rem;
+  margin-top: 12.5rem;
+  margin-right: -60rem;
+  margin-left: -16.9rem;
+} */
+
+.Sign {
+  margin-top: -15px;
+}
+
+.alogo {
+  margin-top: -300px;
+}
+
+u {
+  margin-top: -20px;
+}
+
+/* .return {
+  font-size: 1.5rem;
+  margin-top: 4rem;
+} */
+
+.login {
+  margin-top: 2rem;
+  align-items: center;
+  transition-duration: 0.2s;
+  cursor: pointer;
+  border-radius: 8px;
+  height: 3.2vh;
+  width: 60px;
+  background-color: rgb(12, 12, 75);
+  color: white;
+  font-size: 12px;
+}
+.login:hover {
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  text-decoration: none;
+}
